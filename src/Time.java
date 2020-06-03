@@ -13,7 +13,6 @@ public class Time {
         this.day = 0;
     }
 
-
     public Time(LocalDateTime time){
         this.seconds = time.getSecond();
         this.minute = time.getMinute();
