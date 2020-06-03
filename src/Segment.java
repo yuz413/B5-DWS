@@ -5,4 +5,5 @@ public class Segment {
     public void SetSegmentLower(){}
     public void SetBackgroundColor(Color color){}
     public void SetTextColor(Color color){}
+
 }
