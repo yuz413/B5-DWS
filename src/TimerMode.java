@@ -32,6 +32,8 @@ public class TimerMode {
             }
         };
         setted_time = new Time();
+    }
+    public void initTimerMode() {
         timer_runner = new Thread(new Runnable() {
             @Override
             public void run() {
@@ -45,9 +47,6 @@ public class TimerMode {
                 }
             }
         });
-    }
-    public void initTimerMode() {
-
     }
     private void startTimer() {
         int set_minute;
@@ -151,7 +150,7 @@ public class TimerMode {
         button_a = new ButtonActionCallback() {
             @Override
             public void OnButtonPressed() {
-                // 아무 기능도 호출되지 않는다.
+                // 비활성화
             }
         };
         button_b = new ButtonActionCallback() {
@@ -163,7 +162,7 @@ public class TimerMode {
         button_c = new ButtonActionCallback() {
             @Override
             public void OnButtonPressed() {
-                // 아무 기능도 호출되지 않는다.
+                // 비활성화
             }
         };
     }
@@ -171,7 +170,7 @@ public class TimerMode {
         button_a = new ButtonActionCallback() {
             @Override
             public void OnButtonPressed() {
-                // 아무 기능도 호출되지 않는다.
+                // 비활성화
             }
         };
         button_b = new ButtonActionCallback() {

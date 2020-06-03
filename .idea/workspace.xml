@@ -24,8 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="Time Class Fixed">
+    <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StopWatchMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatchMode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TimerMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimerMode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591171963485</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TimerMode_finish_1">
+      <created>1591194389012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591194389012</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,13 +117,18 @@
     <MESSAGE value="TestCommit!" />
     <MESSAGE value="Time and TimeManager Added" />
     <MESSAGE value="Time Class Fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time Class Fixed" />
+    <MESSAGE value="TimerMode_finish_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="TimerMode_finish_1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1591173766218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591173766218" />
+    <state x="898" y="294" key="CommitChangelistDialog2" timestamp="1591194388020">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="898" y="294" key="CommitChangelistDialog2/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1591194388020" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1591171982812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -132,9 +145,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591177032209" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591171986763">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2" timestamp="1591194399537">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1591194399537" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591171986763" />
   </component>
 </project>
