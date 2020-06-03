@@ -4,6 +4,16 @@ public class Time {
     private int seconds, minute, hour;
     private int year, mounth, day;
 
+    public Time(){
+        this.seconds = 0;
+        this.minute = 0;
+        this.hour = 0;
+        this.year = 0;
+        this.mounth = 0;
+        this.day = 0;
+    }
+
+
     public Time(LocalDateTime time){
         this.seconds = time.getSecond();
         this.minute = time.getMinute();
@@ -21,6 +31,7 @@ public class Time {
         this.year = time.year;
         this.mounth = time.mounth;
     }
+
 
     public int getSeconds() {
         return seconds;

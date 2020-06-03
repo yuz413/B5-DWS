@@ -25,12 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="Time and TimeManager Added">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
