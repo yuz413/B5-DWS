@@ -24,9 +24,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="Time and TimeManager Added">
+    <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="Time Class Fixed">
+      <change afterPath="$PROJECT_DIR$/src/ModeManagerInteracter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ModeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591171399447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Time Class Fixed">
+      <created>1591171963485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591171963485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,13 +108,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestCommit!" />
     <MESSAGE value="Time and TimeManager Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time and TimeManager Added" />
+    <MESSAGE value="Time Class Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time Class Fixed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1591170807375">
+    <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1591173766218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591170807375" />
+    <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591173766218" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1591171982812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591171982812" />
     <state x="202" y="63" key="MergeDialog" timestamp="1591171460555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,9 +132,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591167305743" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591171508123">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591171986763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591171508123" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591171986763" />
   </component>
 </project>

@@ -80,4 +80,25 @@ public class Time {
     public void setDay(int day) {
         this.day = day;
     }
+
+
+
+
+
+
+    public static int convertMinuteToSeconds(int minute){
+        return minute * 60;
+    }
+
+    public static int convertHourToMinute(int hour){
+        return hour * 60;
+    }
+
+    public static int convertSecondsToMinute(int seconds){
+        return seconds / 60;
+    }
+
+    public static int convertMinuteToHour(int minute){
+        return minute / 60;
+    }
 }
