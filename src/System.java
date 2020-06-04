@@ -8,24 +8,23 @@ public class System {
 
     public System(){
         segment = new Segment();
-        mode_manager = new ModeManager();
-
+        mode_manager = new ModeManager(segment);
     }
 
     public void pressButtonA(){
-
+        mode_manager.requestButtonA();
     }
 
     public void pressButtonB(){
-
+        mode_manager.requestButtonB();
     }
 
     public void pressButtonC(){
-
+        mode_manager.requestButtonC();
     }
 
     public void pressButtonD(){
-
+        mode_manager.onButtonD();
     }
 
     public String getSegmentContentLower(){
@@ -37,14 +36,14 @@ public class System {
     }
 
     public Color getTextColor(){
-        return null;
+        return segment.getTextColor();
     }
 
     public Color getBackGroundColor(){
-        return null;
+        return segment.getBackgroundColor();
     }
 
     public void initWatch(){
-
+        mode_manager.initWatch();
     }
 }

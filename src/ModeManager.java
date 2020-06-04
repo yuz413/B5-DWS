@@ -9,6 +9,7 @@ public class ModeManager implements Mode{
     private StandardCallback forced_action = null;
     private boolean overwrite_action_exist = false;
     private boolean is_main_screen = true;
+    private ModeManagerInteracter instance;
 
 
 
@@ -17,7 +18,8 @@ public class ModeManager implements Mode{
     }
 
     public void initWatch(){
-
+        instance = ModeManagerInteracter.getInstance();
+        registerCallback();
     }
 
     public void requestButtonA(){
@@ -70,8 +72,19 @@ public class ModeManager implements Mode{
         }
     }
 
-    public void RegisterCallback(){
-
+    public void registerCallback(){
+        instance.registerCancelForceAction(new StandardCallback() {
+            @Override
+            public void CallbackFunction() {
+                cancelForcedAction();
+            }
+        });
+        instance.registerReserveForcedAction(new MethodCallback() {
+            @Override
+            public void IvokeMethod(StandardCallback sc) {
+                reserveForcedAction(sc);
+            }
+        });
     }
 
     public void increaseModeIndex(){
