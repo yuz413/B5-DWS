@@ -24,16 +24,58 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="Time Class Fixed">
+    <list default="true" id="8d4f68cd-6d3f-4a4c-9105-7235457d20d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/ButtonActionCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Buzzer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Buzzer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Buzzer$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Buzzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/MethodCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Mode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/ModeManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/ModeManager$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/ModeManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/ModeManagerInteracter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Segment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/StandardCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/System.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/TimeManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/beep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/B5-DWS/resources/beep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/resources/DIGITALDREAM.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/beep.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/B5-DWS/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/B5-DWS/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B5-DWS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/B5-DWS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buzzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buzzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModeManagerInteracter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModeManagerInteracter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ThemeWatch" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591171963485</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace - purum">
+      <created>1591330998106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591330998106</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,9 +181,14 @@
     <MESSAGE value="TestCommit!" />
     <MESSAGE value="Time and TimeManager Added" />
     <MESSAGE value="Time Class Fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time Class Fixed" />
+    <MESSAGE value="workspace - purum" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace - purum" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1591331136054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1591331136054" />
     <state x="725" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591280982328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -143,6 +197,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1011" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591173766218" />
+    <state x="579" y="113" key="CommitChangelistDialog2" timestamp="1591330996876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591330996876" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1591171982812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -180,9 +238,9 @@
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591281331967" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591167305743" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591171986763">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591331006468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591171986763" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591331006468" />
   </component>
 </project>
